@@ -24,7 +24,7 @@
 
 ### 👨‍🦱 About Me :
 I'm a Web/App Developer from San Jose, California
-- 🔭 I work as a frontend developer at VC Assist, a startup at my school with 1000+ customers
+- 🔭 I work as a full stack developer at Hack4Impact creating technical projects for nonprofits on a biannual timeline
 - 🧑🏽‍💻 I'm a competitive programmer with 🏅 Gold rank in USACO and a Specialist ranking in Codeforces
 - ❤️ I love CS 💻, Physics :atom:, Business 🕴️ and most importantly coffee ☕
 - You can reach me at: [![Email Badge](https://img.shields.io/badge/-roshan-blue?style=flat&logo=Gmail&logoColor=white)](mailto:roshan.bellary@gmail.com)
